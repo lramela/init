@@ -1,0 +1,7 @@
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+11.1.11.10.in-addr.arpa	name = e1r1p11.42.fr.
+
+#command :
+#nslookup 10.11.1.11
